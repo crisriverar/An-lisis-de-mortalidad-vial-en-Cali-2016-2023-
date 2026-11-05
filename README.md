@@ -67,7 +67,7 @@ Abre el archivo .ipynb en GitHub.
 Haz clic en Open in Colab.
 
 ## 📘 Cómo reproducir el análisis
-Abre notebooks/Analisis_RappiPlus.ipynb.
+Abre notebooks/analisis_accidentes_cali.ipynb.
 Ejecuta las celdas en orden.
 El notebook carga automáticamente el dataset desde /data/.
 
