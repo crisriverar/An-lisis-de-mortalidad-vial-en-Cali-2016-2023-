@@ -18,8 +18,6 @@ Cruces de sexo × rol vial y edad × rol vial (boxplot).
 Tendencia anual 2016-2022 (2023 se excluye por estar incompleto).
 Conteo por día de la semana y por franja horaria (madrugada, mañana, tarde, noche).
 
-Notebook: analisis_accidentes_cali.ipynb → contiene todo el proceso, desde la carga hasta las visualizaciones.
-
 ## Objetivo del análisis
 
 Identificar y documentar problemas de calidad de datos (codificación, valores centinela, rangos y unidades mezcladas en la edad, formatos de fecha, categorías duplicadas).
