@@ -56,3 +56,18 @@ Python (pandas, matplotlib), Jupyter Notebook / Google Colab.
 ## Fuente de datos
 
 Datos Abiertos Cali: Consolidado de muertes en accidentes de tránsito 2016-2023 (datos.cali.gov.co).
+
+Haz clic en el siguiente link:
+
+[https://colab.research.google.com/github/crisriverar/An-lisis-de-mortalidad-vial-en-Cali-2016-2023-/blob/main/Proyecto_accidentes_de_tr%C3%A1nsito_en_Cali.ipynb]
+
+O de forma manual:
+
+Abre el archivo .ipynb en GitHub.
+Haz clic en Open in Colab.
+
+## 📘 Cómo reproducir el análisis
+Abre notebooks/Analisis_RappiPlus.ipynb.
+Ejecuta las celdas en orden.
+El notebook carga automáticamente el dataset desde /data/.
+
