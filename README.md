@@ -44,18 +44,26 @@ Entre 2016 y 2022 no hay una tendencia clara a la baja: el total anual oscila en
 ##  Limitaciones importantes: 
 Todas las cifras son conteos y proporciones de muertes registradas, no tasas de mortalidad, porque el dataset no incluye la población expuesta ni el volumen de tráfico. Además, la hora falta en cerca del 17% de los registros, y no se realizaron pruebas estadísticas de significancia.
 
+## Gráfico de distribución de fallecimientos por edad edad
+
+<img width="950" height="417" alt="image" src="https://github.com/user-attachments/assets/23c33141-36f2-4905-9a17-e5f5294c9270" />
+
+## Gráfico tendencia anual de fallecimientos
+
+<img width="575" height="408" alt="image" src="https://github.com/user-attachments/assets/fc581dd3-5218-4ad7-9f24-3696174d3834" />
+
+## Gráfica de fallecimientos por día de la semana
+
+<img width="572" height="406" alt="image" src="https://github.com/user-attachments/assets/884b5eea-f283-4836-86f1-372faadffb98" />
+
 ## Próximos pasos
 Analizar la distribución del tiempo hasta el fallecimiento por rol vial.
 Aplicar pruebas estadísticas (ANOVA, chi-cuadrado) a las diferencias de edad y sexo entre roles viales.
 Cruzar día de la semana con franja horaria.
 Calcular tasas reales si se consiguen datos de parque automotor, población o aforos de tráfico.
-Herramientas
+Herramientas: Python (pandas, matplotlib), Jupyter Notebook / Google Colab.
 
-Python (pandas, matplotlib), Jupyter Notebook / Google Colab.
-
-## Fuente de datos
-
-Datos Abiertos Cali: Consolidado de muertes en accidentes de tránsito 2016-2023 (datos.cali.gov.co).
+## Cómo abrir el notebook en Google Colab
 
 Haz clic en el siguiente link:
 
@@ -71,3 +79,6 @@ Abre notebooks/analisis_accidentes_cali.ipynb.
 Ejecuta las celdas en orden.
 El notebook carga automáticamente el dataset desde /data/.
 
+## Fuente de datos
+
+Datos Abiertos Cali: Consolidado de muertes en accidentes de tránsito 2016-2023 (datos.cali.gov.co).
